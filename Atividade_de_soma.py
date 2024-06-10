@@ -1,0 +1,6 @@
+print("Escreva dois números")
+numero_1 = input("Qual o primeiro número?")
+print ("O primeiro número é", numero_1)
+numero_2 = input("Qual o segundo número?")
+print ("O segundo número é", numero_2)
+print("A soma dos dois número é", numero_1 numero_2)
